@@ -1,0 +1,6 @@
+[submodule "worker-1"]
+	path = worker-1
+	url = https://github.com/yws1502/worker-1.git
+[submodule "worker-2"]
+	path = worker-2
+	url = https://github.com/yws1502/worker-2.git
